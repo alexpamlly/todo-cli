@@ -1,0 +1,4 @@
+name: todo-cli
+description: A simple command-line todo list application written in Python.
+repository: https://github.com/YOUR_USERNAME/todo-cli
+version: 1.0.0

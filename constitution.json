@@ -1,0 +1,11 @@
+{
+  "quorum": {
+    "min_approvers": 1,
+    "min_participants": 1
+  },
+  "contributors": [
+    {
+      "github": "YOUR_GITHUB_USERNAME"
+    }
+  ]
+}
